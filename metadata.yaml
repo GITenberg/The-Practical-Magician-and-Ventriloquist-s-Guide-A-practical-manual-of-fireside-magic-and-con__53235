@@ -1,0 +1,30 @@
+_repo: The-Practical-Magician-and-Ventriloquist-s-Guide-A-practical-manual-of-fireside-magic-and-con__53235
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2016-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53235'
+  lccn: ca05001911
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ventriloquism -- Handbooks, manuals, etc.'
+- !lcsh 'Magic tricks -- Handbooks, manuals, etc.'
+- !lcc 'GV'
+- GITenberg
+title: "The Practical Magician and Ventriloquist's Guide\r\nA practical manual of\
+  \ fireside magic and conjuring illusions, containing also complete instructions\
+  \ for acquiring and practising the art of ventriloquism."
+url: http://www.gutenberg.org/ebooks/53235
